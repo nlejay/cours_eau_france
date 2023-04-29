@@ -1,5 +1,5 @@
 # cours_eau_france
-Ce dossier contient un fichier gpkg contenant les données des différents cours d'eau en France métroplitaine. Les données sont issues du site https://geo.data.gouv.fr/
+Ce travail a été réalisé à partir d'un fichier gpkg contenant les données des différents cours d'eau en France métroplitaine. Les données sont issues du site https://geo.data.gouv.fr/
 
 A partir de ce jeu de données, un notebook a été créé ayant pour but de créer une carte des cours d'eau de France métropolitaine en distinguant les différents bassins hydrographiques.
 
